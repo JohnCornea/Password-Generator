@@ -1,2 +1,2 @@
 # Password-Generator
-Password Generator JS
+Password Generator using Vanilla JS
