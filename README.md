@@ -1,5 +1,5 @@
 # Password-Generator
 Small project using Vanilla JavaScript
- - you can choose a secured password up to 20 characters, for your needs
+ - you can generate a secured password up to 20 characters to secure your services
  - uppercase & lowercase letters, special characters and numbers
  
